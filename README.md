@@ -1,4 +1,6 @@
-# Frontend Planet Gamer. Proyecto final Full Stack Course by Bottega.
+# Planet_Gamer_Frontend
+
+Frontend Planet Gamer, e-commerce de videojuegos. Proyecto final Full Stack Course by Bottega.
 
 Desde el login te puedes loguear y registrar.
 
